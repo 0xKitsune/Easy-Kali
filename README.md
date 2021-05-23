@@ -18,7 +18,7 @@ A quick, easy command line interface to set up Kali Linux on a live USB with opt
 
 ## About The Project
 
-While setting up Kali Linux is pretty straight forward with a simple `dd if={image} of=/dev/{drive}` command, it can get a little cumbersome when setting up persistence or encrypted persistence.  With Easy Kali and a few simple "y/n" questions, you can set this up in no-time! EKali also automatically verifies your Kali image by checking its SHA256 signature, which you can confirm on the <a href='https://www.kali.org/downloads/'>official Kali downloads page</a>.
+While setting up Kali Linux is pretty straight forward, it can get a little cumbersome when setting up persistence or encryption. With Easy Kali and a few simple "y/n" questions, you can set this up in no-time! EKali also automatically verifies your Kali image by checking its SHA256 signature, which you can confirm on the <a href='https://www.kali.org/downloads/'>official Kali downloads page</a>.
 
 This code is meant to be simple, clean and straightforward. Thats why we took the commands right from the <a href='https://www.kali.org/docs/usb/live-usb-install-with-linux/'>official guide on Kali.org</a> and streamlined the process.  If you want to see how it works under the hood, take a look at `inputs.py` or head to the official guide and see the commands.
 
