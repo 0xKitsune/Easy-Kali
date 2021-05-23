@@ -43,5 +43,5 @@ Kali Live is all ready to go. If you want to set up persistence and encryption, 
 **Persistence**  
 This is where Easy Kali shines. EKali will ask you how big you want the partition to be, you enter it and thats it.
 
-**Encryption** 
+**Encryption**  
 Lastly, Ekali will ask if you want to set up persistence. If so, it'll ask you to set up a passphrase for the encryption and then to verify your passphrase. And thats it, you are all set to go.
